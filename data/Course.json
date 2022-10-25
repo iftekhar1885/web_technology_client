@@ -1,0 +1,225 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "01",
+      "title": "JavaScript Algorithms and Data Structures",
+      "author": {
+        "name": " Tom Crouse", 
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/1.-JavaScript-Algorithms-and-Data-Structures-freeCodeCamp.png",
+      "details": "While HTML and CSS control the content and styling of a page, JavaScript is used to make it interactive. In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.Once you have the fundamentals down, you'll apply that knowledge by creating algorithms to manipulate strings, factorialize numbers, and even calculate the orbit of the International Space Station. Along the way, you'll also learn two important programming styles or paradigms: Object Oriented Programming (OOP) and Functional Programming (FP)."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      "title": " Full Stack JavaScript",
+      "author": {
+        "name": "Jimmy Dane",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/2.-Full-Stack-JavaScript-The-Odin-Project.png",
+      "details": "This path takes you through our entire JavaScript curriculum. The courses should be taken in the order that they are displayed. You'll learn everything you need to know to create beautiful responsive websites from scratch using JavaScript and NodeJs.Let's learn a little more about what you can do with HTML and CSS. Make your websites dynamic and interactive with JavaScript! You'll create features and stand-alone applications. This module includes projects where you will learn how to manipulate the DOM, us object-oriented programming principles, and build single page applications with React. It's time to dig in and become the CSS expert you deserve to be. After this course you'll be equipped to create web projects that look beautiful on any device!Take your JavaScript skills to the server-side! Learn how to fully craft your site's backend using Express, the most popular back-end JavaScript framework! You will also learn how to use a non-relational database, MongoDB.Web development is a lifelong journey of learning and growth. Continue that journey on a professional development team! You'll learn where to find jobs, how to do great interviews, and the best strategies to launch your career."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "07",
+      "title": "Learn JavaScript for free",
+      "author": {
+        "name": "Jennifer Wood",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/4.-Learn-JavaScript-for-free-Scrimba.png",
+      "details": "In this free course by Scrimba, Learn JavaScript for free, you’ll learn JavaScript by coding in JavaScript. You’ll be introduced to the fundamentals by building three basic but interesting programs: a passenger counter app, a blackjack game, and a chrome extension. By the end of this course, you’ll have the skills needed to design a nice-looking and functional website or program.In addition, Scrimba has an active community Discord server.To take this course, you’ll need a basic understanding of HTML and CSS. Scrimba offers a course on that here."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "title": "The Modern JavaScript Tutorial (javascript.info)",
+      "author": {
+        "name": "Jennifer Wood",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/5.-The-Modern-JavaScript-Tutorial-javascript.info_.png",
+      "details": "The first part of this course introduces you to the JavaScript programming language. You’ll begin by working through the syntax of JavaScript. "
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "03",
+      "title": "JavaScript Basics ",
+      "author": {
+        "name": "joshep Bardon",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/6.-JavaScript-Basics-University-of-California-Davis.png",
+      "details": "The course starts with an introduction to JavaScript and the history behind its development. Writing JavaScript is simple. In fact, you’ll write simple JavaScript statements right from your browser’s terminal.The terminal will not be able to accommodate your programming needs however, and hence you’ll want to choose a trust code editor to code with throughout the rest of the course. You’ll learn how to control the flow of your program with loops and selections, call functions whenever you want to repeat your code, and other simple programming concepts.Alright, let’s get to the fun part: building a website. This is where you’ll start using built-in JavaScript methods for accessing and manipulating Document Object Model (DOM) elements — representation of the page’s structure, style, and content. You’ll capture user events with JavaScript and use those events to trigger changes to the DOM. And to top it all off, you’ll put together a simple slideshow on a web page.You’ll end the course by building a simple web application to help users plan their next vacation."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "01",
+      "title": " Interactivity with JavaScript (",
+      "author": {
+        "name": "William Herry",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/7.-Interactivity-with-JavaScript-University-of-Michigan.png",
+      "details": "The course begins with an introduction to web programming, which involves understanding a crucial concept: the Document Object Model (DOM). With JavaScript, grabbing any part of the webpage and changing it is easy. You’ll learn why and how when you learn the syntax and semantics of the JavaScript language. You’ll then master how JavaScript handles events, which is whenever the user interacts with the websites. You’ll handle these events with functions that’ll run to accomplish a task, like submitting a form or navigating a web page. You’ll also learn how to control the flow of your functions with loops and arrays to help you account for specific use cases."
+    },
+
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "title": "Learn JavaScript",
+      "author": {
+        "name": "Mickel clark",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/8.-Learn-JavaScript-Codecademy.png",
+      "details": "In this course, you will learn the basics of JavaScript programming. First, the course runs you through the essential programming concepts like variables and statements to help you build your first two projects: converting Kelvin to Celsius and then to Fahrenheit, and converting human years to dog years.The final parts of the course covers functions, arrays, loops, and iterators to help you better structure your program. Additionally, you’ll learn about the object-oriented paradigm, a handy way of organizing your code in terms of units of data. For example, a button should have properties like being clickable. Hence, every button should be implemented with a clickable state."
+    },
+
+    {
+      "_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "03",
+      
+      "title": " CS50’s Web Programming with Python and JavaScript",
+      "author": {
+        "name": "Alex Roshep",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/9.-CS50s-Web-Programming-with-Python-and-JavaScript-Harvard-University.png",
+      "details": "The course begins with an introduction to HTML and CSS, the structural backbone of any website. HTML is the markup language used to outline a webpage, while CSS is a procedure for making our sites more visually appealing. You’ll also learn how to use Git for version control and collaboration. You’ll design a front-end for Google Search, Google Image Search, and Google Advanced Search for your first project with HTML and CSAfterwards, you’ll learn about Python, a programming language, and the Django framework, a popular web framework that you’ll use for your site backend to create truly dynamic applications.your second project, you’ll design a Wikipedia-like online encyclopedia. SQL is a language used for storing and retrieving data, which is extremely important as websites revolve around sending data back and forth. You’ll learn Django-specific methods that make it easier to interact with SQL databases, which you’ll apply in your third project where you’ll design an eBay-like e-commerce auction site."
+    },
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "JavaScript: Understanding the Weird Parts",
+      "author": {
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/10.-JavaScript_-Understanding-the-Weird-Parts-Udemy.png",
+      "details": "The course begins by answering a fundamental question: How does the JavaScript engine execute code?"
+    },
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "04",
+      "title": " Full Stack Open: Deep Dive Into Modern Web Development ",
+      "author": {
+        "name": "Theo Minh Châu",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/3.-Full-Stack-Open_-Deep-Dive-Into-Modern-Web-Development-University-of-Helsinki.png",
+      "details": "Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js."
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "title": " The Modern JavaScript Tutorial",
+      "author": {
+        "name": "Ukrainska Pravda",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/5.-The-Modern-JavaScript-Tutorial-javascript.info_.png",
+      "details": "Week 1 is all about website structure and web hosting. You’ll learn the jargon and common abbreviations of web development, proceed to hosting your website, and learn about client and server-side development techniques.In Week 2, you’ll explore the base language behind all websites: HTML. You’ll be able to identify HTML tags and code, and explore styles applied to HTML to change how it looks.You’ll learn to set up templates for HTML, create links, format text, and work with images you want to put on your webpages. Next up is JavaScript in Week 3. This is the language that makes websites dynamic! You’ll start by writing simple JavaScript programs while learning its fundamental syntax You’ll work through JavaScript alerts and prompts, and events (typically specific user interactions with your websites, such as clicking or typing). You’ll also learn how to gather user input, and dynamically modify HTML using JavaScript. Finally, you’ll practice testing your JavaScript programs. Week 4 covers the styling part of web development: CSS. While HTML and JavaScript form the skeleton of a webpage, it’s CSS that makes it interactive and pretty. You’ll learn the different design principles, compare and contrast how we use CSS in the form of inline, internal and external CSS code, and practice CSS coding online.You’ll be able to make the webpage less boring by adding colors and control page layouts. You’ll work with pixels, and create attractive tables using CSS.In Week 5, you’ll learn to make web forms using HTML. You’ll put into practice all that you’ve learned in the previous weeks to create an HTML form. These are widely used on the internet.You’ll code simple forms, and validate your user input using JavaScript. You’ll also discuss the usage of specific HTML elements such as buttons, and how you may interface with them using JavaScript."
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "05",
+      "title": " Interactivity with JavaScript ",
+      "author": {
+        "name": "Martin Pravda",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/7.-Interactivity-with-JavaScript-University-of-Michigan.png",
+      "details": "If you want to take your website to the next level, the ability to incorporate interactivity is a must. But adding some of these types of capabilities requires a stronger programming language than HTML5 or CSS3, and JavaScript can provide just what you need. With just a basic understanding of the language, you can create a page that will react to common events such as page loads, mouse clicks & movements, and even keyboard input.”"
+    },
+
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f75d",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "category_id": "02",
+      "title": " CS50’s Web Programming",
+      "author": {
+        "name": "Daniel Deangelo",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": " https://www.classcentral.com/report/wp-content/uploads/2022/04/1.-CS50s-Web-Programming-with-Python-and-JavaScript-Harvard.png",
+      "details": "The course is broken down into 9 lectures. The lectures range from 1 to 2 hours. Concepts are taught through a combination of videos and readings. Since some of the lectures can be long and exhausting, I suggest watching them in segments and learning at your own pace. The lectures consist of both brief theoretical explanations and a lot of interactive programming examples. Reading materials include notes, slides, and source code. Like Like David Malan, Brian Yu is a really talented instructor who gives clear explanations well-supported through visuals. The course has amazing production values: we’re a far cry from the blurry powerpoints of some of the early and not-so-good online courses.In terms of assessments, there are 6 projects in total, including the project at the end of the course."
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+      },
+      "category_id": "07",
+      "title": "HTML, CSS, and Javascript for Web Developers",
+      "author": {
+        "name": "Tomas polard",
+        "img": "https://static.poshukach.com/imgpreview?key=16a8593f0c34869&mb=imgdb_preview_1352"
+      },
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/04/2.-HTML-CSS-and-Javascript-for-Web-Developers-Johns-Hopkins.png",
+      "details": "You’ll then learn how to code your web page so that everything rearranges and resizes automatically according to the size of the user’s screen, be it a smartphone or a desktop. You’ll make your design “responsive” — a must nowadays, since many internet users are on phones."
+    }
+    
+  ]
